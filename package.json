@@ -1,0 +1,23 @@
+{
+  "name": "fb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "i": "^0.3.7",
+    "image-hash": "^5.0.2",
+    "md5": "^2.3.0",
+    "npm": "^8.8.0",
+    "puppeteer": "^13.6.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "request": "^2.88.2"
+  }
+}
